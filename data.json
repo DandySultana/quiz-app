@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": [
+            {"option": "London", "correct": false},
+            {"option": "Berlin", "correct": false},
+            {"option": "Madrid", "correct": false},
+            {"option": "Paris", "correct": true}
+        ]
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": [
+            {"option": "Jane Austen", "correct": false},
+            {"option": "Charles Dickens", "correct": false},
+            {"option": "William Shakespeare", "correct": true},
+            {"option": "Mark Twain", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the smallest planet in our solar system?",
+        "answer": [
+            {"option": "Mars", "correct": false},
+            {"option": "Venus", "correct": false},
+            {"option": "Earth", "correct": false},
+            {"option": "Mercury", "correct": true}
+        ]
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "answer": [
+            {"option": "Gold", "correct": false},
+            {"option": "Iron", "correct": false},
+            {"option": "Diamond", "correct": true},
+            {"option": "Silver", "correct": false}
+        ]
+    },
+    {
+        "question": "Who was the first president of the United States?",
+        "answer": [
+            {"option": "Thomas Jefferson", "correct": false},
+            {"option": "George Washington", "correct": true},
+            {"option": "Abraham Lincoln", "correct": false},
+            {"option": "John Adams", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": [
+            {"option": "H2O", "correct": true},
+            {"option": "O2", "correct": false},
+            {"option": "CO2", "correct": false},
+            {"option": "HO", "correct": false}
+        ]
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answer": [
+            {"option": "Saturn", "correct": false},
+            {"option": "Jupiter", "correct": false},
+            {"option": "Mars", "correct": true},
+            {"option": "Venus", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "answer": [
+            {"option": "Indian Ocean", "correct": false},
+            {"option": "Atlantic Ocean", "correct": false},
+            {"option": "Pacific Ocean", "correct": true},
+            {"option": "Arctic Ocean", "correct": false}
+        ]
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": [
+            {"option": "Leonardo da Vinci", "correct": true},
+            {"option": "Vincent van Gogh", "correct": false},
+            {"option": "Pablo Picasso", "correct": false},
+            {"option": "Claude Monet", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "answer": [
+            {"option": "Elephant", "correct": false},
+            {"option": "Blue Whale", "correct": true},
+            {"option": "Giraffe", "correct": false},
+            {"option": "Great White Shark", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "answer": [
+            {"option": "Tomato", "correct": false},
+            {"option": "Onion", "correct": false},
+            {"option": "Avocado", "correct": true},
+            {"option": "Lime", "correct": false}
+        ]
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answer": [
+            {"option": "Marie Curie", "correct": false},
+            {"option": "Alexander Fleming", "correct": true},
+            {"option": "Louis Pasteur", "correct": false},
+            {"option": "Isaac Newton", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "answer": [
+            {"option": "K2", "correct": false},
+            {"option": "Mount Everest", "correct": true},
+            {"option": "Kangchenjunga", "correct": false},
+            {"option": "Makalu", "correct": false}
+        ]
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answer": [
+            {"option": "China", "correct": false},
+            {"option": "Japan", "correct": true},
+            {"option": "South Korea", "correct": false},
+            {"option": "Thailand", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answer": [
+            {"option": "Sahara Desert", "correct": true},
+            {"option": "Gobi Desert", "correct": false},
+            {"option": "Arabian Desert", "correct": false},
+            {"option": "Kalahari Desert", "correct": false}
+        ]
+    }, 
+    {
+        "question": "Who invented the telephone?",
+        "answer": [
+            {"option": "Thomas Edison", "correct": false},
+            {"option": "Alexander Graham Bell", "correct": true},
+            {"option": "Nikola Tesla", "correct": false},
+            {"option": "Albert Einstein", "correct": false}
+        ]
+    },
+    {
+        "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+        "answer": [
+            {"option": "Mars", "correct": false},
+            {"option": "Venus", "correct": true},
+            {"option": "Jupiter", "correct": false},
+            {"option": "Saturn", "correct": false}
+        ]
+    },
+    {
+        "question": "Who painted 'The Starry Night'?",
+        "answer": [
+            {"option": "Pablo Picasso", "correct": false},
+            {"option": "Claude Monet", "correct": false},
+            {"option": "Vincent van Gogh", "correct": true},
+            {"option": "Leonardo da Vinci", "correct": false}
+        ]
+    },
+    {
+        "question": "What is the largest species of bear?",
+        "answer": [
+            {"option": "Polar Bear", "correct": true},
+            {"option": "Grizzly Bear", "correct": false},
+            {"option": "Black Bear", "correct": false},
+            {"option": "Brown Bear", "correct": false}
+        ]
+    },
+    {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "answer": [
+            {"option": "Norway", "correct": true},
+            {"option": "Sweden", "correct": false},
+            {"option": "Finland", "correct": false},
+            {"option": "Iceland", "correct": false}
+        ]
+    }
+]
