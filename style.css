@@ -454,6 +454,12 @@ footer button {
 }
 
 @media(max-width:675px){
+    .getnama input, .getnama button {
+        width: 100%;
+    }
+    .getnama {
+        width: 65%;
+    }
     .main-title {
         font-size: 4rem;
     }
